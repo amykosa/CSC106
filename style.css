@@ -2,8 +2,8 @@ font{courier;}
 body {background-color:#ff98eb;}
 #navtable{width:1024px;}
 #nav-td{width: 150px; text-align:center;}
-#p-td{width: 200px; text-align:center;}
+p{width: 1024px; text-align:center;}
 #h1-td{width: 1024px; text-align:center;}
 #p-td {color:rgb(0.0.0);}
-#h1 {color:rgb(0,0,0);}
+#h1-td {color:rgb(0,0,0);}
 body {background-image: url('myBackground.jpg')}
