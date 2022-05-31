@@ -12,4 +12,6 @@ body {background-image: url('myBackground.jpg')}
 #h1-td{width:1024px;text-align:center;border-spacing:0px}
 #h1-td{color:rgb(0,0,0);
 #h1-table{background-color:#ff98eb}
+ 
+  #table-banner{width1024px;text-align:center;border-spacing:4px;background-color:#ff98eb;}
 
