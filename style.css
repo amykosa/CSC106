@@ -4,6 +4,4 @@ body {background-color:#ff69b4;}
 #nav-td{width: 150px; text-align:center;}
 #p-td{width: 1024px; text-align:center; color: rgb(0,0,0);}
 #h1-td{width 1024px; text-align:center;color: rgb( 0,0,0);}
-
-
-body {background: <img src="myBackground.jpg"{text-align:center;}
+body {background-image: url('myBackground.jpg')}
