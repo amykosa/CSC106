@@ -1,6 +1,6 @@
 
 body {background-color:#ff98eb;}
-#navtable{width:1024px;background:#ff98eb;}
+#navtable{width:1024px;background:#ff98eb;border-spacing:0px}
 #nav-td{text-align:center;}
 p-td{width:1024px;text-align:center;}
 #h1-td{width:1024px;text-align:center;}
