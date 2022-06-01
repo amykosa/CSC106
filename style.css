@@ -4,6 +4,7 @@ body {background-image: url('myBackground.jpg')}
 
 #navtable{width:1024px;background-color:#ff98eb;border-spacing:0px;}
 #nav-td{text-align:center;background-color:#ff98eb;}
+#myB{text-align:center;width:1024px}
 
 #p-td{text-align:center;border-spacing:4px;}
 #p-td{color:rgb(0.0.0);}
